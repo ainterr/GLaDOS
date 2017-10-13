@@ -1,0 +1,8 @@
+*.o
+*.ko
+*.mod.*
+modules.order
+Module.symvers
+.*
+song/song_b64.txt
+song/song
