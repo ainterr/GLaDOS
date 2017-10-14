@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 
 static char *lyrics = "This was a triumph!\n"
 "I'm making a note here: Huge success!\n"
