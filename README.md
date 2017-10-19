@@ -1,6 +1,7 @@
 # GLaDOS
 
-A kernel-mode rootkit for linux. 
+A kernel-mode rootkit for linux. This is for education purposes only - use at
+your own risk.
 
 Currently, this just starts a kernel thread which prints messages (GLaDOS
 quotes in [quotes.txt](quotes.txt)) to every terminal every N seconds until it
